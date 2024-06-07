@@ -1,3 +1,3 @@
-## curso ditital git - versionament0
+## curso ditital git
 
 # salvando 
